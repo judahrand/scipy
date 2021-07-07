@@ -57,9 +57,9 @@ Operating System :: MacOS
 MAJOR = 1
 MINOR = 7
 MICRO = 0
-ISRELEASED = True
+ISRELEASED = False
 IS_RELEASE_BRANCH = True
-VERSION = '%d.%d.%d.thread' % (MAJOR, MINOR, MICRO)
+VERSION = '%d.%d.%d' % (MAJOR, MINOR, MICRO)
 
 
 # Return the git revision as a string
